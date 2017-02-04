@@ -1,0 +1,34 @@
+c:\users\francesco\documents\visual studio 2015\Projects\AlgorithmsAssignments\AlgorithmsAssignments\bin\Release\AlgorithmsAssignments.exe.config
+c:\users\francesco\documents\visual studio 2015\Projects\AlgorithmsAssignments\AlgorithmsAssignments\bin\Release\AlgorithmsAssignments.exe
+c:\users\francesco\documents\visual studio 2015\Projects\AlgorithmsAssignments\AlgorithmsAssignments\bin\Release\AlgorithmsAssignments.pdb
+c:\users\francesco\documents\visual studio 2015\Projects\AlgorithmsAssignments\AlgorithmsAssignments\bin\Release\Sorting.dll
+c:\users\francesco\documents\visual studio 2015\Projects\AlgorithmsAssignments\AlgorithmsAssignments\bin\Release\Sorting.pdb
+c:\users\francesco\documents\visual studio 2015\Projects\AlgorithmsAssignments\AlgorithmsAssignments\obj\Release\AlgorithmsAssignments.csprojResolveAssemblyReference.cache
+c:\users\francesco\documents\visual studio 2015\Projects\AlgorithmsAssignments\AlgorithmsAssignments\obj\Release\AlgorithmsAssignments.exe
+c:\users\francesco\documents\visual studio 2015\Projects\AlgorithmsAssignments\AlgorithmsAssignments\obj\Release\AlgorithmsAssignments.pdb
+c:\users\francesco\documents\visual studio 2015\Projects\AlgorithmsAssignments\AlgorithmsAssignments\bin\Release\Dictionaries.dll
+c:\users\francesco\documents\visual studio 2015\Projects\AlgorithmsAssignments\AlgorithmsAssignments\bin\Release\Dictionaries.pdb
+C:\Users\Francesco\OneDrive\backup\AlgorithmsAssignments\AlgorithmsAssignments\bin\Release\AlgorithmsAssignments.exe.config
+C:\Users\Francesco\OneDrive\backup\AlgorithmsAssignments\AlgorithmsAssignments\obj\Release\AlgorithmsAssignments.exe
+C:\Users\Francesco\OneDrive\backup\AlgorithmsAssignments\AlgorithmsAssignments\obj\Release\AlgorithmsAssignments.pdb
+C:\Users\Francesco\OneDrive\backup\AlgorithmsAssignments\AlgorithmsAssignments\bin\Release\AlgorithmsAssignments.exe
+C:\Users\Francesco\OneDrive\backup\AlgorithmsAssignments\AlgorithmsAssignments\bin\Release\AlgorithmsAssignments.pdb
+C:\Users\Francesco\OneDrive\backup\AlgorithmsAssignments\AlgorithmsAssignments\bin\Release\Dictionaries.dll
+C:\Users\Francesco\OneDrive\backup\AlgorithmsAssignments\AlgorithmsAssignments\bin\Release\Sorting.dll
+C:\Users\Francesco\OneDrive\backup\AlgorithmsAssignments\AlgorithmsAssignments\bin\Release\Dictionaries.pdb
+C:\Users\Francesco\OneDrive\backup\AlgorithmsAssignments\AlgorithmsAssignments\bin\Release\Sorting.pdb
+C:\Users\Francesco\OneDrive\backup\AlgorithmsAssignments\AlgorithmsAssignments\obj\Release\AlgorithmsAssignments.csprojResolveAssemblyReference.cache
+C:\Users\Francesco\OneDrive\backup\AlgorithmsAssignments\AlgorithmsAssignments\bin\Release\Graphs.dll
+C:\Users\Francesco\OneDrive\backup\AlgorithmsAssignments\AlgorithmsAssignments\bin\Release\Graphs.pdb
+C:\Users\Francesco\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-6A exams\Solutions of assignments\AlgorithmsAssignments\AlgorithmsAssignments\bin\Release\AlgorithmsAssignments.exe.config
+C:\Users\Francesco\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-6A exams\Solutions of assignments\AlgorithmsAssignments\AlgorithmsAssignments\obj\Release\AlgorithmsAssignments.exe
+C:\Users\Francesco\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-6A exams\Solutions of assignments\AlgorithmsAssignments\AlgorithmsAssignments\obj\Release\AlgorithmsAssignments.pdb
+C:\Users\Francesco\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-6A exams\Solutions of assignments\AlgorithmsAssignments\AlgorithmsAssignments\bin\Release\AlgorithmsAssignments.exe
+C:\Users\Francesco\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-6A exams\Solutions of assignments\AlgorithmsAssignments\AlgorithmsAssignments\bin\Release\AlgorithmsAssignments.pdb
+C:\Users\Francesco\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-6A exams\Solutions of assignments\AlgorithmsAssignments\AlgorithmsAssignments\bin\Release\Dictionaries.dll
+C:\Users\Francesco\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-6A exams\Solutions of assignments\AlgorithmsAssignments\AlgorithmsAssignments\bin\Release\Graphs.dll
+C:\Users\Francesco\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-6A exams\Solutions of assignments\AlgorithmsAssignments\AlgorithmsAssignments\bin\Release\Sorting.dll
+C:\Users\Francesco\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-6A exams\Solutions of assignments\AlgorithmsAssignments\AlgorithmsAssignments\bin\Release\Dictionaries.pdb
+C:\Users\Francesco\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-6A exams\Solutions of assignments\AlgorithmsAssignments\AlgorithmsAssignments\bin\Release\Graphs.pdb
+C:\Users\Francesco\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-6A exams\Solutions of assignments\AlgorithmsAssignments\AlgorithmsAssignments\bin\Release\Sorting.pdb
+C:\Users\Francesco\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-6A exams\Solutions of assignments\AlgorithmsAssignments\AlgorithmsAssignments\obj\Release\AlgorithmsAssignments.csprojResolveAssemblyReference.cache

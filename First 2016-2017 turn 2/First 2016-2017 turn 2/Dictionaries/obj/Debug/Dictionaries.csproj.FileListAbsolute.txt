@@ -1,0 +1,15 @@
+c:\users\francesco\documents\visual studio 2015\Projects\AlgorithmsAssignments\Dictionaries\bin\Debug\Dictionaries.dll
+c:\users\francesco\documents\visual studio 2015\Projects\AlgorithmsAssignments\Dictionaries\bin\Debug\Dictionaries.pdb
+c:\users\francesco\documents\visual studio 2015\Projects\AlgorithmsAssignments\Dictionaries\obj\Debug\Dictionaries.csprojResolveAssemblyReference.cache
+c:\users\francesco\documents\visual studio 2015\Projects\AlgorithmsAssignments\Dictionaries\obj\Debug\Dictionaries.dll
+c:\users\francesco\documents\visual studio 2015\Projects\AlgorithmsAssignments\Dictionaries\obj\Debug\Dictionaries.pdb
+C:\Users\Francesco\OneDrive\backup\AlgorithmsAssignments\Dictionaries\bin\Debug\Dictionaries.dll
+C:\Users\Francesco\OneDrive\backup\AlgorithmsAssignments\Dictionaries\bin\Debug\Dictionaries.pdb
+C:\Users\Francesco\OneDrive\backup\AlgorithmsAssignments\Dictionaries\obj\Debug\Dictionaries.csprojResolveAssemblyReference.cache
+C:\Users\Francesco\OneDrive\backup\AlgorithmsAssignments\Dictionaries\obj\Debug\Dictionaries.dll
+C:\Users\Francesco\OneDrive\backup\AlgorithmsAssignments\Dictionaries\obj\Debug\Dictionaries.pdb
+C:\Users\Eldin Habibovic\Desktop\First 2016-2017 turn 2\First 2016-2017 turn 2\Dictionaries\bin\Debug\Dictionaries.dll
+C:\Users\Eldin Habibovic\Desktop\First 2016-2017 turn 2\First 2016-2017 turn 2\Dictionaries\bin\Debug\Dictionaries.pdb
+C:\Users\Eldin Habibovic\Desktop\First 2016-2017 turn 2\First 2016-2017 turn 2\Dictionaries\obj\Debug\Dictionaries.csprojResolveAssemblyReference.cache
+C:\Users\Eldin Habibovic\Desktop\First 2016-2017 turn 2\First 2016-2017 turn 2\Dictionaries\obj\Debug\Dictionaries.dll
+C:\Users\Eldin Habibovic\Desktop\First 2016-2017 turn 2\First 2016-2017 turn 2\Dictionaries\obj\Debug\Dictionaries.pdb

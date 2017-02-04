@@ -1,0 +1,18 @@
+c:\users\francesco\documents\visual studio 2015\Projects\AlgorithmsAssignments\Sorting\bin\Debug\Sorting.dll.config
+c:\users\francesco\documents\visual studio 2015\Projects\AlgorithmsAssignments\Sorting\bin\Debug\Sorting.dll
+c:\users\francesco\documents\visual studio 2015\Projects\AlgorithmsAssignments\Sorting\bin\Debug\Sorting.pdb
+c:\users\francesco\documents\visual studio 2015\Projects\AlgorithmsAssignments\Sorting\obj\Debug\Sorting.csprojResolveAssemblyReference.cache
+c:\users\francesco\documents\visual studio 2015\Projects\AlgorithmsAssignments\Sorting\obj\Debug\Sorting.dll
+c:\users\francesco\documents\visual studio 2015\Projects\AlgorithmsAssignments\Sorting\obj\Debug\Sorting.pdb
+C:\Users\Francesco\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-6A exams\Solutions of assignments\AlgorithmsAssignments\Sorting\bin\Debug\Sorting.dll.config
+C:\Users\Francesco\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-6A exams\Solutions of assignments\AlgorithmsAssignments\Sorting\bin\Debug\Sorting.dll
+C:\Users\Francesco\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-6A exams\Solutions of assignments\AlgorithmsAssignments\Sorting\bin\Debug\Sorting.pdb
+C:\Users\Francesco\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-6A exams\Solutions of assignments\AlgorithmsAssignments\Sorting\obj\Debug\Sorting.csprojResolveAssemblyReference.cache
+C:\Users\Francesco\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-6A exams\Solutions of assignments\AlgorithmsAssignments\Sorting\obj\Debug\Sorting.dll
+C:\Users\Francesco\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-6A exams\Solutions of assignments\AlgorithmsAssignments\Sorting\obj\Debug\Sorting.pdb
+C:\Users\Eldin Habibovic\Desktop\First 2016-2017 turn 2\First 2016-2017 turn 2\Sorting\bin\Debug\Sorting.dll.config
+C:\Users\Eldin Habibovic\Desktop\First 2016-2017 turn 2\First 2016-2017 turn 2\Sorting\bin\Debug\Sorting.dll
+C:\Users\Eldin Habibovic\Desktop\First 2016-2017 turn 2\First 2016-2017 turn 2\Sorting\bin\Debug\Sorting.pdb
+C:\Users\Eldin Habibovic\Desktop\First 2016-2017 turn 2\First 2016-2017 turn 2\Sorting\obj\Debug\Sorting.csprojResolveAssemblyReference.cache
+C:\Users\Eldin Habibovic\Desktop\First 2016-2017 turn 2\First 2016-2017 turn 2\Sorting\obj\Debug\Sorting.dll
+C:\Users\Eldin Habibovic\Desktop\First 2016-2017 turn 2\First 2016-2017 turn 2\Sorting\obj\Debug\Sorting.pdb

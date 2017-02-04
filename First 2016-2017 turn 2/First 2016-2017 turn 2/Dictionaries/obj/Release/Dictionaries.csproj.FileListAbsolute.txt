@@ -1,0 +1,10 @@
+c:\users\francesco\documents\visual studio 2015\Projects\AlgorithmsAssignments\Dictionaries\bin\Release\Dictionaries.dll
+c:\users\francesco\documents\visual studio 2015\Projects\AlgorithmsAssignments\Dictionaries\bin\Release\Dictionaries.pdb
+c:\users\francesco\documents\visual studio 2015\Projects\AlgorithmsAssignments\Dictionaries\obj\Release\Dictionaries.csprojResolveAssemblyReference.cache
+c:\users\francesco\documents\visual studio 2015\Projects\AlgorithmsAssignments\Dictionaries\obj\Release\Dictionaries.dll
+c:\users\francesco\documents\visual studio 2015\Projects\AlgorithmsAssignments\Dictionaries\obj\Release\Dictionaries.pdb
+C:\Users\Francesco\OneDrive\backup\AlgorithmsAssignments\Dictionaries\bin\Release\Dictionaries.dll
+C:\Users\Francesco\OneDrive\backup\AlgorithmsAssignments\Dictionaries\bin\Release\Dictionaries.pdb
+C:\Users\Francesco\OneDrive\backup\AlgorithmsAssignments\Dictionaries\obj\Release\Dictionaries.csprojResolveAssemblyReference.cache
+C:\Users\Francesco\OneDrive\backup\AlgorithmsAssignments\Dictionaries\obj\Release\Dictionaries.dll
+C:\Users\Francesco\OneDrive\backup\AlgorithmsAssignments\Dictionaries\obj\Release\Dictionaries.pdb
