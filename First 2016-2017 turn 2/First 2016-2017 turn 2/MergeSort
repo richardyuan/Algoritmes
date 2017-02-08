@@ -1,0 +1,81 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Sorting
+{
+  public enum SortingTechniques { MERGE_SORT };
+
+  public class SortFunctions<T> where T : IComparable
+  {
+        public T[] templist;
+
+    private static T[] Merge(T[] arr, int left, int middle, int right)
+    {
+      int i, j, k, tempindex;
+      tempindex = 0;
+      T[] arr1 = new T[middle - left + 1];
+      T[] arr2 = new T[right - middle];
+      for (i = 0, k = left; i < arr1.Length; i++, k++)
+        arr1[i] = arr[k];
+      for (j = 0, k = middle + 1; j < arr2.Length; j++, k++)
+        arr2[j] = arr[k];
+      i = j = 0;
+      T[] temp = arr1;
+      //temp.ToArray();
+      while ((i <= middle) && (j <= right)){
+                if (arr[i].CompareTo(arr[j]) == -1)
+                {
+                    temp[tempindex] = arr[i];
+                    i++;
+                }
+                else
+                {
+                    temp[tempindex] = arr[j];
+                    j++;
+                }
+                tempindex++;
+            }
+      if (i <= middle)
+            {
+                temp[tempindex] = arr[i];
+                i++;
+            }
+      if (j <= k)
+            {
+                temp[tempindex] = arr[j];
+                j++;
+            }
+
+      return arr;
+    }
+
+    private static T[] MergeSort(T[] arr, int leftBoundary, int rightBoundary)
+    {
+      if (leftBoundary < rightBoundary)
+      {
+        int middle = (leftBoundary + rightBoundary) / 2;
+        T[] leftHalf = MergeSort(arr, leftBoundary, middle);
+        T[] rightHalf = MergeSort(arr, middle + 1, rightBoundary);
+        T[] mergedHalves = Merge(arr, leftBoundary, middle, rightBoundary);
+        return mergedHalves;
+      }
+      else
+        return arr;
+    }
+
+    public static T[] Sort(T[] arr, SortingTechniques sortingAlgorithm)
+    {
+      switch (sortingAlgorithm)
+      {
+        case SortingTechniques.MERGE_SORT:
+          return MergeSort(arr, 0, arr.Length - 1);
+        default:
+          break;
+      }
+      return arr;
+    }
+  }
+}
